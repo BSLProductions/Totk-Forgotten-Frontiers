@@ -25,4 +25,4 @@ PictureBookData.Enemy_CDarkNut_Middle.State hash entry : 0x5c1b0e2c  [Custom Ene
 Enemy_CDarkNut_Senior hash entry : 0x99d70ce7  [Custom Enemies, 2026-06-25 14:48:07]
 PictureBookData.Enemy_CDarkNut_Senior.IsNew hash entry : 0x616b33d1  [Custom Enemies, 2026-06-25 14:48:07]
 PictureBookData.Enemy_CDarkNut_Senior.State hash entry : 0xa4e61d48  [Custom Enemies, 2026-06-25 14:48:07]
-GSIKey hash entry : 0xa92582de  [Custom Bool Flag, 2026-07-12 17:07:43]
+GSIKey hash entry : 0xa92582de  [Custom Bool Flag, 2026-07-14 10:00:36]
